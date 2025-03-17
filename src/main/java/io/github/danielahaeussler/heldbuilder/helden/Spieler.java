@@ -1,4 +1,4 @@
-package helden;
+package io.github.danielahaeussler.heldbuilder.helden;
 
 import java.util.ArrayList;
 
