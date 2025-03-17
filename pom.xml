@@ -12,6 +12,8 @@
     <properties>
         <maven.compiler.target>17</maven.compiler.target>
         <maven.compiler.source>17</maven.compiler.source>
+
+        <exec.mainClass>io.github.danielahaeussler.heldbuilder.Main</exec.mainClass>
     </properties>
 
     <dependencies>
