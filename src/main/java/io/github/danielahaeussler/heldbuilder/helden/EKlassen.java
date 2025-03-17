@@ -2,7 +2,7 @@ package io.github.danielahaeussler.heldbuilder.helden;
 
 public enum EKlassen {
 	
-	KRIEGER("Krieger"), MAGIER("Magier"), PALADIN("Paladin"), WALDLÄUFER("Waldläufer"), BESCHWÖRER("Beschwörer"), BARDE("Barde"), HEILER("Heiler");
+	KRIEGER("Krieger"), MAGIER("Magier"), PALADIN("Paladin"), WALDLAEUFER("Waldläufer"), BESCHWOERER("Beschwörer"), BARDE("Barde"), HEILER("Heiler");
 	
 private String klassenName;
 
