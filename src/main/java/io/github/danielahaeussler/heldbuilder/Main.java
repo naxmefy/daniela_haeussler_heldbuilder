@@ -1,9 +1,9 @@
-package main;
+package io.github.danielahaeussler.heldbuilder;
 
 import java.util.ArrayList;
-import helden.EKlassen;
-import helden.ESpecies;
-import helden.Spieler;
+import io.github.danielahaeussler.heldbuilder.helden.EKlassen;
+import io.github.danielahaeussler.heldbuilder.helden.ESpecies;
+import io.github.danielahaeussler.heldbuilder.helden.Spieler;
 
 public class Main {
 

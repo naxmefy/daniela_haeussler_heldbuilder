@@ -1,4 +1,4 @@
-package game;
+package io.github.danielahaeussler.heldbuilder.game;
 
 public class LevelSystem {
 	int[] level;
