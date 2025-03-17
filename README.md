@@ -1,5 +1,16 @@
 # Heldbuilder
 
+## Voraussetzungen
+
+- Java 17
+- Maven
+
+## Benutzung Terminal
+
+```bash
+mvn exec:java
+```
+
 ## Gedanken und Ideen
 
 ### Allgemeines
