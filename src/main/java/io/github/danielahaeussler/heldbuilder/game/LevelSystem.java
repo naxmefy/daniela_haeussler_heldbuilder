@@ -1,8 +1,6 @@
 package io.github.danielahaeussler.heldbuilder.game;
 
 public class LevelSystem {
-	int[] level;
-	int[] xp;
-	
-
+  int[] level;
+  int[] xp;
 }
