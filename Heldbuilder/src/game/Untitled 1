@@ -1,0 +1,30 @@
+Fall 1: 
+Wenn Kampf gewonnen = Erfahrungspunkte gewonnen 
+Wenn Kampf verloren = Verlust von Geld
+
+Fall 2:  
+Wenn Quest abgegeben und erfolgreich gelöst = Erfahrungspunkte gewonnen 
+Wenn Quest abgebrochen = Erfahrungspunkte verloren 
+Wenn Quest vermasselt = neuer Durchlauf? 
+
+Fall 3: --> für Fall 3 eine Methode konzipieren, die wir in Fall 3 ausführen lassen
+Ernten von Pflanzen: 
+leicht: 25 Pkt 
+amateurhaft: 50 pkt 
+erfahren: 75 pkt 
+meisterhaft: 100 Pkt 
+
+Fall 4: --> für Fall 4 eine Methode konzipieren, die wir in Fall 4 ausführen lassen 
+Abbau von Erzen: 
+leicht: 50 pkt 
+amateurhaft: 100 pkt 
+erfahren: 150 pkt 
+meisterhaft: 200 pkt 
+
+Fall 5:
+Verkaufen - Erfahrungspunkte oder Skillpunkte? 
+
+Fall 6: 
+Gute Taten = Bonuspunkte von konstant 200 Punkten 
+schlechte Taten = Maluspunkte von konstant 100 Punkten 
+
